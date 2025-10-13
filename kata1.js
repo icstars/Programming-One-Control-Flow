@@ -1,4 +1,8 @@
-//First 10 odd numbers
-for (let i = 1; i <= 19; i += 2) {
-  console.log(i);
+// log the First 10 odd numbers
+for (
+  let firstTenOddNumbers = 1;
+  firstTenOddNumbers <= 19;
+  firstTenOddNumbers += 2
+) {
+  console.log(firstTenOddNumbers);
 }
