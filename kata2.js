@@ -8,3 +8,4 @@ if(Fizz %3 === 0 && Fizz %5 === 0) {
 } else {
     console.log(Fizz                                                                                            )
 }
+//I am writing a program that that prints numbers from 1 to 20.
