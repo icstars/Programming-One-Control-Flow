@@ -12,5 +12,5 @@ console.log(`${DC} x ${C}= ${DC* C}`);
        
 console.log('-----');
 }
-//
+// Rachel Maynie 
  
